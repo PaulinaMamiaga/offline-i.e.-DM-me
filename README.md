@@ -2,6 +2,9 @@ PROJECT TOPIC (offline, i.e. DM me) - before next Tuesday, February 16th
 This checkpoint means that you have:
 
 a dataset - needs to have at least 500+ rows. Please send a the link to the dataset.
+the link for data set ## Dataset
+ Medical Insurance Costs dataset (Kaggle): https://www.kaggle.com/datasets/mirichoi0218/insurance
+
 a target - this can be either continuous (regression problem) or categorical (classification problem). I would recommend choosing a classification problem because it really helps you understand some of the trade-offs you need to do in ML, i.e. precision vs recall. Regression tends to be easier to optimize for.
  You can also send multiple ideas and I'm happy to rank them.
 
